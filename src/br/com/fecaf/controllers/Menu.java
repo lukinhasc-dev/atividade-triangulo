@@ -77,6 +77,7 @@ public class Menu {
                 case 7:
                     sairMenu = true;
                     view.mensagemSair();
+                    break;
 
                 default:
                     view.mensagemOpcaoValida();
